@@ -2,5 +2,5 @@
 
 How to sort ArrayList?
 
-rrayList<Integer>result = new ArrayList<Integer>();
+ArrayList<Integer>result = new ArrayList<Integer>();
 Collections.sort(result);
